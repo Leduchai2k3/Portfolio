@@ -30,6 +30,7 @@ const HomeStyled = styled.div`
 `;
 
 const Home = () => {
+  document.title = "Home";
   AOS.init();
 
   return (

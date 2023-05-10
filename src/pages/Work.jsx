@@ -123,6 +123,7 @@ const listProject = [
   },
 ];
 const Work = () => {
+  document.title = "Work";
   const [project, setProject] = useState(false);
 
   AOS.init();

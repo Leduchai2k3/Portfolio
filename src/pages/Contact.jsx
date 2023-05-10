@@ -19,6 +19,7 @@ const ContactStyled = styled.div`
 `;
 
 const Contact = () => {
+  document.title = "Contact";
   AOS.init();
   return (
     <ContactStyled
