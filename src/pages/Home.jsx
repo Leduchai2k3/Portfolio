@@ -57,7 +57,7 @@ const Home = () => {
             data-aos-delay="100"
             data-aos-duration="600"
           >
-            Get To Know Me
+            Get To Know
           </h4>
           <h1
             className="text-[60px] font-semibold text-white"
